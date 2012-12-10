@@ -1,4 +1,4 @@
-#My Blog
+#Blog Template
 
 ## License
 
